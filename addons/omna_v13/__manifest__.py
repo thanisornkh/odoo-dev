@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'OMNA Marketplace Connector',
-    'version': '13.0.0.1.0',
+    'name': 'OMNA dev',
+    # 'version': '13.0.0.1.0',
+    'version': '14',
     'category': 'Sales',
     'summary': 'Integration: Shopify, Shopee, Lazada, Qoo10, MercadoLibre, Backmarket, Shipstation',
     'description': 'Integrate global online marketplaces & web-stores with Odoo. Sync products, inventory and orders from multiple channels',
